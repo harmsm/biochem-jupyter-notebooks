@@ -1,0 +1,14 @@
+Simulated titration curves for ALA-X-ALA peptides.  Curves show total
+protonation -- not charge state! -- against pH.  
+
+pKa values used (from Pratt and Cornley):
+
+C-terminus:  3.5
+Asp:         3.9
+Glu:         4.1
+His:         6.0
+Cys:         8.4
+N-terminus:  9.0
+Lys:        10.5
+Tyr:        10.5
+Arg:        12.5 
