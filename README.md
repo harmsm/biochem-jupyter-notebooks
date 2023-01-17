@@ -11,9 +11,9 @@ Explores free energy, enthalpy, and entropy in the context of dice rolling
 
 ### Differential scanning calorimetry
 
-<a href="https://githubtocolab.com/harmsm/biochem-jupyter-notebooks/blob/main/differential-scanning-calorimetry.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://githubtocolab.com/harmsm/biochem-jupyter-notebooks/blob/master/differential-scanning-calorimetry.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-[Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/main/differential-scanning-calorimetry.ipynb)
+[Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/master/differential-scanning-calorimetry.ipynb)
 Explores differential scanning calorimetry data to learn about protein folding. Covers $\Delta G$, $\Delta H$, $\Delta S$, $\Delta C_p$, and $T_m$.
 
 ### Michaelis Menten Kinetics
