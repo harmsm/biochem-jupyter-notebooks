@@ -9,6 +9,13 @@ interactive notebooks for teaching biochemistry concepts
 [Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/main/dG_as_a_bet.ipynb)
 Explores free energy, enthalpy, and entropy in the context of dice rolling
 
+### Differential scanning calorimetry
+
+<a href="https://githubtocolab.com/harmsm/biochem-jupyter-notebooks/blob/main/differential-scanning-calorimetry.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/main/differential-scanning-calorimetry.ipynb)
+Explores differential scanning calorimetry data to learn about protein folding. Covers $\Delta G$, $\Delta H$, $\Delta S$, $\Delta C_p$, and $T_m$.
+
 ### Michaelis Menten Kinetics
 
 <a href="https://githubtocolab.com/harmsm/biochem-jupyter-notebooks/blob/main/Michaelis-Menten.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
