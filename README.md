@@ -38,3 +38,12 @@ access to $K_{D}$ versus binding stoichiometry.
 [Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/master/fit-binding-models.ipynb)
 Fit binding models to experimental data to extract $K_{D}$. Covers basics of
 of regression, residuals, and bootstrapping to estimate parameter uncertainty.
+
+### Chemical kinetics simulations
+
+<a href="https://githubtocolab.com/harmsm/biochem-jupyter-notebooks/blob/master/actin-kinetics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+[Notebook](https://github.com/harmsm/biochem-jupyter-notebooks/blob/master/actin-kinetics.ipynb)
+Run simulations of complicated reaction schemes using deterministic Markov
+matrices and stochastic Gillespie simulations. Uses actin filament formation
+as a model reaction.
